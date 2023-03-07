@@ -8,7 +8,6 @@ const useStyles = createStyles((theme) => ({
     justifyContent: 'space-between',
     alignItems: 'flex-start',
     paddingTop: theme.spacing.xl * 3,
-    paddingBottom: theme.spacing.xl,
     maxWidth: '1680px',
   },
 
